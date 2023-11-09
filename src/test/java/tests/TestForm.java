@@ -11,6 +11,8 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class TestForm extends BaseTest {
 
+    //самая первая версия теста
+
     String phone = "7926467397";
     String name = "Roman";
     String lastName = "Starkov";
